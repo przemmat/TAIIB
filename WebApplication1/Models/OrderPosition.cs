@@ -13,5 +13,8 @@ namespace WebApplication1.Model
         public decimal Price { get; set; }
         [ForeignKey(nameof(OrderID)),Required]
         public Order Order { get; set; }
+        public int ProductID { get; set; }
+        [Required,ForeignKey(nameof(ProductID))]
+        public Product Product { get; set; }
     }
 }
