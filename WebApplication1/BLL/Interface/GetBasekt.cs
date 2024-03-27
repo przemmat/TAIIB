@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetBasekt
+    public interface GetBasekt
     {
         public IEnumerable<BasketPositionResponseDTO> get(UserRequestDTO user);
     }

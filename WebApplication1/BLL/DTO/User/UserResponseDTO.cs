@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO.User
 {
-    internal class UserResponseDTO
+    public class UserResponseDTO
     {
         public IEnumerable<BasketPositionResponseDTO> BasketPositions { get; init; }
         public IEnumerable<OrderResponseDTO> Orders { get; init; }

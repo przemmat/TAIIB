@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO.Order
 {
-    internal class OrderResponseDTO
+    public class OrderResponseDTO
     {
         public DateTime Date { get; init; }
         public IEnumerable<OrderPositionResponseDTO> OrderPositions { get; init; }

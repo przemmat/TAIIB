@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetBasketPositions
+    public interface GetBasketPositions
     {
         public IEnumerable<BasketPositionResponseDTO> get(UserRequestDTO user);
     }

@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface ActivateProduct
+    public interface ActivateProduct
     {
-        public bool Activate(ProductRequestDTO id);
+        public bool Activate(ProductRequestDTO id, bool state = true);
     }
 }

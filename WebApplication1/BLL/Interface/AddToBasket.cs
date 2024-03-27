@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface AddToBasket
+    public interface AddToBasket
     {
         public bool AddToBasket(ProductRequestDTO id, UserRequestDTO user);
     }

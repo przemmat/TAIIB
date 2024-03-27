@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface CreateOrder
+    public interface CreateOrder
     {
         public OrderResponseDTO createOrder(UserRequestDTO user);
     }

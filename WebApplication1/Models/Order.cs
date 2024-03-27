@@ -81,5 +81,6 @@
     set
     ; 
     }
+        public bool Oplacone { get; set; }
     }
     }

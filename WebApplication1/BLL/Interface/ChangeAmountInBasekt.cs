@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface ChangeAmountInBasekt
+    public interface ChangeAmountInBasekt
     {
         public bool ChangeAmount(ProductRequestDTO id, UserRequestDTO user,int amount);
     }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface RemoveFromBasket
+    public interface RemoveFromBasket
     {
         public bool RemoveFromBasket(ProductRequestDTO product, UserRequestDTO user);
     }

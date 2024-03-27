@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetAllOrders
+    public interface GetAllOrders
     {
         public IEnumerable<OrderResponseDTO> get();
     }

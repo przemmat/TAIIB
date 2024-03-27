@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO.product
 {
-    internal class ProductRequestDTO
+    public class ProductRequestDTO
     {
         public int ProductID { get; init; }
     }

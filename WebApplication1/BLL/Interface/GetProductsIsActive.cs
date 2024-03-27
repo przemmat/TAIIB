@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetProductsIsActive 
+    public interface GetProductsIsActive 
     {
-        public IEnumerable<ProductResponseDTO> get(bool IsActive = true);
+        public IEnumerable<ProductResponseDTO> getactive(bool IsActive = true);
     }
 }

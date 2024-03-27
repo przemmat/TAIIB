@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO.OrderPosition
 {
-    internal class OrderPositionResponseDTO
+    public class OrderPositionResponseDTO
     {
         public int Amount { get; set; }
         public decimal Price { get; set; }

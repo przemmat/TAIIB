@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO.BasketPosition
 {
-    internal class BasketPositionResponseDTO
+    public class BasketPositionResponseDTO
     {
 
         public int Amount { get; init; }

@@ -45,7 +45,7 @@ namespace DAL.Migrations
 
                     b.HasIndex("UserID");
 
-                    b.ToTable("BasketPosition");
+                    b.ToTable("BasketPositions");
                 });
 
             modelBuilder.Entity("WebApplication1.Model.Order", b =>
@@ -59,6 +59,9 @@ namespace DAL.Migrations
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime2");
 
+                    b.Property<bool>("Oplacone")
+                        .HasColumnType("bit");
+
                     b.Property<int>("UserID")
                         .HasColumnType("int");
 
@@ -66,7 +69,7 @@ namespace DAL.Migrations
 
                     b.HasIndex("UserID");
 
-                    b.ToTable("Order");
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("WebApplication1.Model.OrderPosition", b =>
@@ -96,7 +99,7 @@ namespace DAL.Migrations
 
                     b.HasIndex("ProductID");
 
-                    b.ToTable("OrderPosition");
+                    b.ToTable("OrderPositions");
                 });
 
             modelBuilder.Entity("WebApplication1.Model.Product", b =>
@@ -126,7 +129,7 @@ namespace DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Product");
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("WebApplication1.Model.User", b =>

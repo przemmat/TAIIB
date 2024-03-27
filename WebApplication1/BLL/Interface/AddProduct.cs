@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface AddProduct
+    public interface AddProduct
     {
         public bool add(ProductResponseDTO product);
     }

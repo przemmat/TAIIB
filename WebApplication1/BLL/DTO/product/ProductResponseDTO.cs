@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO.product
 {
-    internal class ProductResponseDTO
+    public class ProductResponseDTO
     {
+        public int? ID { get; set; }
+
         public string Name { get; init; }
         public decimal Price { get; init; }
         public string Image { get; init; } 

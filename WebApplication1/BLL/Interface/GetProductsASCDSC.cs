@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetProductsASCDSC
+    public interface GetProductsASCDSC
     {
         public IEnumerable<ProductResponseDTO> get(bool ascending);
     }

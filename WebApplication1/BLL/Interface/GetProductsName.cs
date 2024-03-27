@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetProductsName
+    public interface GetProductsName
     {
-        public IEnumerable<ProductResponseDTO> get(string name);
+        public IEnumerable<ProductResponseDTO> getPoNazwie(string name);
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interface
 {
-    internal interface GetAllUserOrders
+    public interface GetAllUserOrders
     {
         public IEnumerable<OrderResponseDTO> get(UserRequestDTO user);
     }
