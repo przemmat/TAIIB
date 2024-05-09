@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj" />
+    <ProjectReference Include="..\context\context.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
-    <ProjectReference Include="..\WebApplication1\DAL.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{C23F482D-360F-4567-B669-317264640B3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_EF", "BLL_EF\BLL_EF.csproj", "{88C919D3-DED2-4C77-8158-3513EF1ED330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL_EF", "BLL_EF\BLL_EF.csproj", "{88C919D3-DED2-4C77-8158-3513EF1ED330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "context", "context\context.csproj", "{0365DAC0-3763-4BF7-8013-551D926E1948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{88C919D3-DED2-4C77-8158-3513EF1ED330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88C919D3-DED2-4C77-8158-3513EF1ED330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88C919D3-DED2-4C77-8158-3513EF1ED330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0365DAC0-3763-4BF7-8013-551D926E1948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0365DAC0-3763-4BF7-8013-551D926E1948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0365DAC0-3763-4BF7-8013-551D926E1948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0365DAC0-3763-4BF7-8013-551D926E1948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

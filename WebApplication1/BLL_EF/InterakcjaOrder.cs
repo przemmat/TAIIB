@@ -15,23 +15,23 @@ using WebApplication1;
 
 namespace BLL_EF
 {
-    internal class InterakcjaOrder : GetAllUserOrders, GetAllOrders, CreateOrder
+    internal class InterakcjaOrder 
     {
         private WebshopContext context = new WebshopContext();
-        public OrderResponseDTO createOrder(UserRequestDTO user)
+      /*  public OrderResponseDTO createOrder(UserRequestDTO user)
         {
             throw new NotImplementedException();
-        }
+        }*/
 
-        public IEnumerable<OrderResponseDTO> get(UserRequestDTO user)
+       /* public IEnumerable<OrderResponseDTO> get(UserRequestDTO user)
         {
            
-        }
+        }*/
 
-        public IEnumerable<OrderResponseDTO> get()
+       /* public IEnumerable<OrderResponseDTO> get()
         {
             var or = context.Orders;
            
-            }
+            }*/
     }
 }

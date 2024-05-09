@@ -26,3 +26,4 @@ C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\Models\obj\Debug\net6.0\
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\Models\obj\Debug\net6.0\Models.pdb
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\Models\obj\Debug\net6.0\ref\Models.dll
+C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\Models\obj\Debug\net6.0\Models.sourcelink.json

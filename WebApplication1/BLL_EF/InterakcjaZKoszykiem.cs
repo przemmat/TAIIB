@@ -1,15 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
-using BLL;
-using BLL.DTO.BasketPosition;
+﻿using BLL.DTO.BasketPosition;
 using BLL.DTO.product;
 using BLL.DTO.User;
 using BLL.Interface;
-using Microsoft.AspNetCore.Components.Forms;
 using WebApplication1;
 using WebApplication1.Model;
 namespace BLL_EF

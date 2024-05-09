@@ -81,6 +81,14 @@
     set
     ; 
     }
-        public bool Oplacone { get; set; }
+    public 
+    bool
+    Oplacone 
+    {
+    get
+    ;
+    set
+    ;
+    }
     }
     }

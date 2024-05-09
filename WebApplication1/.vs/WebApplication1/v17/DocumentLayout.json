@@ -1,0 +1,689 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\webapplication1\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|solutionrelative:webapplication1\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\AppData\\Local\\Temp\\.vsdbgsrc\\7d09dd1533e6a9bdd282ae28363aeb1ac95634c1d584a4966d6b70cd5bdaa4bd\\InferParameterBindingInfoConvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\AppData\\Local\\SourceServer\\71689935de4b3d147fa53e06dcc86091c66a95a24789f945e17b523a5b470e1d\\src\\Mvc\\Mvc.Core\\src\\ApplicationModels\\InferParameterBindingInfoConvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C919D3-DED2-4C77-8158-3513EF1ED330}|BLL_EF\\BLL_EF.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll_ef\\interakcjaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C919D3-DED2-4C77-8158-3513EF1ED330}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\interakcjaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0365DAC0-3763-4BF7-8013-551D926E1948}|context\\context.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\context\\webshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0365DAC0-3763-4BF7-8013-551D926E1948}|context\\context.csproj|solutionrelative:context\\webshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\webapplication1\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|solutionrelative:webapplication1\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\order\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\order\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\basketposition\\basketpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\basketposition\\basketpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\removeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\removeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\orderposition\\orderpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\orderposition\\orderpositionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\orderposition\\orderpositionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\orderposition\\orderpositionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\order\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\order\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\user\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\user\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\activateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\activateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getproductsstronnicowo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getproductsstronnicowo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F1A38-303F-4E74-8750-98DC30F978C9}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getproductsisactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getproductsisactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\removefrombasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\removefrombasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getproductsname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getproductsname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getproductsascdsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getproductsascdsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getbasekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getbasekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getbasketpositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getbasketpositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getalluserorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getalluserorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\getallorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\getallorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\changeamountinbasekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\changeamountinbasekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\addtobasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\addtobasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\interface\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\bll\\dto\\product\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F482D-360F-4567-B669-317264640B3F}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\product\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|c:\\users\\student\\documents\\github\\taiib\\webapplication1\\webapplication1\\migrations\\20240327090915_mxd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA27E60-8FBD-4654-981C-BC388B81A67B}|WebApplication1\\DAL.csproj|solutionrelative:webapplication1\\migrations\\20240327090915_mxd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:57:24.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\BasketPosition.cs",
+              "RelativeDocumentMoniker": "Models\\BasketPosition.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\BasketPosition.cs",
+              "RelativeToolTip": "Models\\BasketPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAjAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:30:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:38:05.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:02:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:46:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InferParameterBindingInfoConvention.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\AppData\\Local\\SourceServer\\71689935de4b3d147fa53e06dcc86091c66a95a24789f945e17b523a5b470e1d\\src\\Mvc\\Mvc.Core\\src\\ApplicationModels\\InferParameterBindingInfoConvention.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\71689935de4b3d147fa53e06dcc86091c66a95a24789f945e17b523a5b470e1d\\src\\Mvc\\Mvc.Core\\src\\ApplicationModels\\InferParameterBindingInfoConvention.cs",
+              "ToolTip": "C:\\Users\\Student\\AppData\\Local\\SourceServer\\71689935de4b3d147fa53e06dcc86091c66a95a24789f945e17b523a5b470e1d\\src\\Mvc\\Mvc.Core\\src\\ApplicationModels\\InferParameterBindingInfoConvention.cs[Tylko do odczytu]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\71689935de4b3d147fa53e06dcc86091c66a95a24789f945e17b523a5b470e1d\\src\\Mvc\\Mvc.Core\\src\\ApplicationModels\\InferParameterBindingInfoConvention.cs[Tylko do odczytu]",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAvwFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:02:01.267Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InferParameterBindingInfoConvention.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\AppData\\Local\\Temp\\.vsdbgsrc\\7d09dd1533e6a9bdd282ae28363aeb1ac95634c1d584a4966d6b70cd5bdaa4bd\\InferParameterBindingInfoConvention.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7d09dd1533e6a9bdd282ae28363aeb1ac95634c1d584a4966d6b70cd5bdaa4bd\\InferParameterBindingInfoConvention.cs",
+              "ToolTip": "C:\\Users\\Student\\AppData\\Local\\Temp\\.vsdbgsrc\\7d09dd1533e6a9bdd282ae28363aeb1ac95634c1d584a4966d6b70cd5bdaa4bd\\InferParameterBindingInfoConvention.cs[Tylko do odczytu]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7d09dd1533e6a9bdd282ae28363aeb1ac95634c1d584a4966d6b70cd5bdaa4bd\\InferParameterBindingInfoConvention.cs[Tylko do odczytu]",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAvwDQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:03:24.233Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebshopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\context\\WebshopContext.cs",
+              "RelativeDocumentMoniker": "context\\WebshopContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\context\\WebshopContext.cs",
+              "RelativeToolTip": "context\\WebshopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:49:18.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:43:27.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterakcjaOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL_EF\\InterakcjaOrder.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\InterakcjaOrder.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL_EF\\InterakcjaOrder.cs",
+              "RelativeToolTip": "BLL_EF\\InterakcjaOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:32:42.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\DAL.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\DAL.csproj",
+              "RelativeToolTip": "WebApplication1\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T10:23:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\UserGroup.cs",
+              "RelativeDocumentMoniker": "Models\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\UserGroup.cs",
+              "RelativeToolTip": "Models\\UserGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:08:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketPositionResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\BasketPosition\\BasketPositionResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\BasketPosition\\BasketPositionResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\BasketPosition\\BasketPositionResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\BasketPosition\\BasketPositionResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:06:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\Order\\OrderRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Order\\OrderRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\Order\\OrderRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Order\\OrderRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:58:12.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T10:49:13.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderPositionRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\OrderPosition\\OrderPositionRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\OrderPosition\\OrderPositionRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\OrderPosition\\OrderPositionRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\OrderPosition\\OrderPositionRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:01:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderPositionResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\OrderPosition\\OrderPositionResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\OrderPosition\\OrderPositionResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\OrderPosition\\OrderPositionResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\OrderPosition\\OrderPositionResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:02:17.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RemoveProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\RemoveProduct.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\RemoveProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\RemoveProduct.cs",
+              "RelativeToolTip": "BLL\\Interface\\RemoveProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:51:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\Order\\OrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Order\\OrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\Order\\OrderResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Order\\OrderResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:59:31.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\OrderPosition.cs",
+              "RelativeDocumentMoniker": "Models\\OrderPosition.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\OrderPosition.cs",
+              "RelativeToolTip": "Models\\OrderPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:38:04.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\User\\UserRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\User\\UserRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\User\\UserRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\User\\UserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:05:17.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Models\\ProductGroup.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\ProductGroup.cs",
+              "RelativeToolTip": "Models\\ProductGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:08:31.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:06:24.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RemoveFromBasket.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\RemoveFromBasket.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\RemoveFromBasket.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\RemoveFromBasket.cs",
+              "RelativeToolTip": "BLL\\Interface\\RemoveFromBasket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:28:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetProductsIsActive.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsIsActive.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetProductsIsActive.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsIsActive.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetProductsIsActive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:18:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductsStronnicowo.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsStronnicowo.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetProductsStronnicowo.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsStronnicowo.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetProductsStronnicowo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:16:12.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActivateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\ActivateProduct.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\ActivateProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\ActivateProduct.cs",
+              "RelativeToolTip": "BLL\\Interface\\ActivateProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:25:51.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240327090915_mxd.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Migrations\\20240327090915_mxd.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240327090915_mxd.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\Migrations\\20240327090915_mxd.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240327090915_mxd.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:20:55.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetProductsName.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsName.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetProductsName.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsName.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetProductsName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:17:50.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetProductsASCDSC.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsASCDSC.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetProductsASCDSC.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetProductsASCDSC.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetProductsASCDSC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:52:33.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetBasekt.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetBasekt.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetBasekt.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetBasekt.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetBasekt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:30:39.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetBasketPositions.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetBasketPositions.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetBasketPositions.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetBasketPositions.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetBasketPositions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:36:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetAllUserOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetAllUserOrders.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetAllUserOrders.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetAllUserOrders.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetAllUserOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:35:44.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetAllOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetAllOrders.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\GetAllOrders.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\GetAllOrders.cs",
+              "RelativeToolTip": "BLL\\Interface\\GetAllOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:34:27.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\EditProduct.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\EditProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\EditProduct.cs",
+              "RelativeToolTip": "BLL\\Interface\\EditProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:24:44.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\CreateOrder.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\CreateOrder.cs",
+              "RelativeToolTip": "BLL\\Interface\\CreateOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:33:35.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ChangeAmountInBasekt.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\ChangeAmountInBasekt.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\ChangeAmountInBasekt.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\ChangeAmountInBasekt.cs",
+              "RelativeToolTip": "BLL\\Interface\\ChangeAmountInBasekt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:29:30.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddToBasket.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\AddToBasket.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\AddToBasket.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\AddToBasket.cs",
+              "RelativeToolTip": "BLL\\Interface\\AddToBasket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:26:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\AddProduct.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\Interface\\AddProduct.cs",
+              "RelativeToolTip": "BLL\\Interface\\AddProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:21:09.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\User\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\User\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\User\\UserResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\User\\UserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:06:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\product\\ProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\product\\ProductRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\BLL\\DTO\\product\\ProductRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\product\\ProductRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:51:06.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

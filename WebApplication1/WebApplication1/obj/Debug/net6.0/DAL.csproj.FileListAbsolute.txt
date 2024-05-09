@@ -174,9 +174,10 @@ C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debu
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\DAL.styles.css
-C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\DAL.csproj.CopyComplete
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\DAL.dll
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\DAL.dll
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\DAL.pdb
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\Student\Documents\GitHub\TAIIB\WebApplication1\WebApplication1\obj\Debug\net6.0\DAL.csproj.Up2Date

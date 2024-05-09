@@ -21,10 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj" />
+    <ProjectReference Include="..\BLL_EF\BLL_EF.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 
