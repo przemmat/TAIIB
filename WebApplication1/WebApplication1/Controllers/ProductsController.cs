@@ -39,28 +39,28 @@ namespace DAL.Controllers
             return interakcjaZProduktem.remove(id);
         }
         [HttpGet]
-        [Route("/{ascending}")]
+        [Route("/asc/{ascending}")]
         public IEnumerable<ProductResponseDTO> get([FromRoute] bool ascending)
         {
             return productGets.get(ascending);
         }
         [HttpGet]
-        [Route("/{name}")]
+        [Route("/name/{name}")]
         public IEnumerable<ProductResponseDTO> gegetPoNazwiet([FromRoute] string name)
         {
             return productGets.getPoNazwie(name);
         }
         [HttpGet]
-        [Route("/{strona}")]
-        public IEnumerable<ProductResponseDTO> getStronnicowo([FromRoute] int name)
+        [Route("/strona/{strona}")]
+        public IEnumerable<ProductResponseDTO> getStronnicowo([FromRoute] int strona)
         {
-            return productGets.getStronnicowo(name);
+            return productGets.getStronnicowo(strona);
         }
         [HttpGet]
-        [Route("/{state}")]
-        public IEnumerable<ProductResponseDTO> getactive([FromRoute] bool name)
+        [Route("/state/{state}")]
+        public IEnumerable<ProductResponseDTO> getactive([FromRoute] bool state)
         {
-            return productGets.getactive(name);
+            return productGets.getactive(state);
         }
 
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dx7T/h83TyEYeLH8RNKLiIqU1N6tPmFlCvugXwdPxBdlezj8HE9fSSDJlTfqa+0pTmDbeIotCKIBk9nV5Btrug==",
+  "dgSpecHash": "oelJib7CTg7JM1dY46ZrYwNG23QeKOhZKXeOvuHS4MfUDVnW4+h51tABsYOvmHXMlrnNyBeAJUM4oR/BJiaq3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Documents\\GitHub\\TAIIB\\WebApplication1\\WebApplication1\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\KR\\TAIIB\\WebApplication1\\WebApplication1\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
